@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\hw task2\\hw task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A552DA56-A377-4C33-A389-C5A7BE7A8BB9}|HW task2\\HW task2.csproj|solutionrelative:hw task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Meat.cs",
+              "RelativeToolTip": "HW task2\\Models\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:05:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Food.cs",
+              "RelativeToolTip": "HW task2\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:05:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Cow.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Cow.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Cow.cs",
+              "RelativeToolTip": "HW task2\\Models\\Cow.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:56.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Grass.cs",
+              "RelativeToolTip": "HW task2\\Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:40.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Lion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Lion.cs",
+              "RelativeToolTip": "HW task2\\Models\\Lion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "HW task2\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Models\\Animal.cs",
+              "RelativeToolTip": "HW task2\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Program.cs",
+              "RelativeDocumentMoniker": "HW task2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HW task2\\HW task2\\Program.cs",
+              "RelativeToolTip": "HW task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:03:24.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
